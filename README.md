@@ -10,7 +10,7 @@ L'objectif est de proposer une architecture moderne, sécurisée et évolutive p
 
 ---
 
-## 🎯 Objectif
+##  Objectif
 
 SEN-PAY permet à un employeur de :
 
